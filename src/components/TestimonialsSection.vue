@@ -55,31 +55,31 @@ const testimonials=ref([
     {
         id:1,
         fullName:'IRUMVA Arsène',
-        image:'src/assets/arsene.png',
+        image:'/arsene.png',
         comment:'Estimé is a talented web developer who transforms complex challenges into sleek, effective digital solutions. With a sharp design sense and a passion for clean, maintainable code, he stays ahead of the curve. Combining creativity with technical expertise, he builds fast, responsive, and intuitive websites.'
     },
     {
         id:2,
         fullName:'NDAYISENGA Jules César Junior',
-        image:'src/assets/cesar.png',
+        image:'/cesar.png',
         comment:'Estimé is a talented web developer with a sharp eye for detail and a passion for clean, efficient code. Always up-to-date with the latest tech, he brings creative solutions to every project.'
     },
     {
         id:3,
         fullName:'NIYERA Néré Brunel',
-        image:'src/assets/Brunel.png',
+        image:'/Brunel.png',
         comment:'Estimé is a talented frontend developer with a passion for crafting visually stunning and user-friendly interfaces. With a strong foundation in frontend he brings designs to life with precision and creativity.',
     },
     {
         id:4,
         fullName:'NIKEZWE Marie Prisca',
-        image:'src/assets/prisca.png',
+        image:'/prisca.png',
         comment:'With a sharp eye for design and detail, Estimé transforms ideas into clean, functional frontend experiences.'
     },
     {
         id:5,
         fullName:'NDABUNGUYE Merci',
-        image:'src/assets/merci.png',
+        image:'/merci.png',
         comment:'Estimé turns complex UI concepts into elegant, interactive user experiences using cutting-edge frontend tech.'
     },
 ])
