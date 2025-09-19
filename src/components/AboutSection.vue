@@ -55,7 +55,7 @@ const education=ref([
     {
         id:1,
         School:'UNIVERSITÉ DU LAC TANGANYIKA',
-        program:'Bachelor of Software Engineer',
+        program:'Bachelor of Software Engineering',
         year:'2022-2025'
     },
     {
