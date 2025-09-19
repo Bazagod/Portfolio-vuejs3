@@ -44,7 +44,11 @@
         </div>
         <div class="flex flex-col justify-center">
           <h4 class="font-semibold">LinkedIn</h4>
+<<<<<<< HEAD
           <a href="https://www.linkedin.com/in/ton-profil" target="_blank" rel="noopener noreferrer"
+=======
+          <a href="https://www.linkedin.com/in/estimé-ninon-bazayo-a827a5329" target="_blank" rel="noopener noreferrer"
+>>>>>>> 8b7e48b7a6eadb00bcaabcf4af472a5afaacf7cb
              class="text-gray-300 hover:text-blue-400 transition">
             Estimé Ninon BAZAYO
           </a>
@@ -56,5 +60,8 @@
     <div class="bg-gradient-to-tr opacity-25 from-[#570cac] to-primary blur-2xl h-20 w-80 z-0 absolute -top-1/2 -left-4 transform -translate-x-2/3 -translate-1/2"></div>
   </section>
 </template>
+<<<<<<< HEAD
 <script>
 </script>
+=======
+>>>>>>> 8b7e48b7a6eadb00bcaabcf4af472a5afaacf7cb
