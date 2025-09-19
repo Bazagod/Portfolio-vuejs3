@@ -56,8 +56,6 @@
     <div class="bg-gradient-to-tr opacity-25 from-[#570cac] to-primary blur-2xl h-20 w-80 z-0 absolute -top-1/2 -left-4 transform -translate-x-2/3 -translate-1/2"></div>
   </section>
 </template>
-<<<<<<< HEAD
+
 <script>
 </script>
-=======
->>>>>>> 8b7e48b7a6eadb00bcaabcf4af472a5afaacf7cb
