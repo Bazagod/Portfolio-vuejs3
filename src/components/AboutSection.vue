@@ -55,13 +55,13 @@ const education=ref([
     {
         id:1,
         School:'UNIVERSITÉ DU LAC TANGANYIKA',
-        program:'Software Engineering',
+        program:'Bachelor of Software Engineer',
         year:'2022-2025'
     },
     {
         id:2,
         School:'LYCÉE NOTRE DAME DE ROHERO',
-        program:'SCIENCES BIOLOGIE-CHIMIE-SCIENCES DE LA TERRE',
+        program:'High School Diploma in General Humanities',
         year:'2017-2021'
     }
 ])
