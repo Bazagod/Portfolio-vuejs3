@@ -33,25 +33,28 @@
 import { ref } from 'vue';
 import { Carousel , Navigation , Slide } from 'vue3-carousel';
 import 'vue3-carousel/dist/carousel.css';
+
 //Carousel settings
-const settings =ref({
-    itemsToShow:1,
-    snapAlign:"center",
+const settings = ref({
+    itemsToShow: 1,
+    snapAlign: "center",
+    autoplay: 4000, // en millisecondes (4s)
+    wrapAround: true, // pour boucler en continu
 })
 
 //Breakpoints
-const breakpoints =ref({
-    700:{
-        itemsToShow:2.5,
-        snapAlign:'center',
+const breakpoints = ref({
+    700: {
+        itemsToShow: 2.5,
+        snapAlign: 'center',
     },
-    1024:{
-        itemsToShow:3,
-        snapAlign:'start',
+    1024: {
+        itemsToShow: 3,
+        snapAlign: 'start',
     },
 })
 
-const testimonials=ref([
+const testimonials = ref([
     {
         id:1,
         fullName:'IRUMVA Arsène',
