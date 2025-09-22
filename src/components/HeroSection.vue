@@ -61,7 +61,7 @@
                                       0 .322.218.699.825.58C20.565 22.08 
                                       24 17.586 24 12.297 24 5.67 18.627.297 12 .297z"/>
                             </svg>
-                            <span class="text-white">My GitHub</span>
+                            <span class="text-white">Visit my GitHub</span>
                         </a>
                     </div>
                 </div>
