@@ -15,7 +15,7 @@
                         </h1>
                     </div>
                     <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
-                        I am a passionate front-end developer specializing in creating modern and high-performance web interfaces. With expertise in HTML, CSS and JavaScript 
+                        I am a passionate front-end developer specializing in creating modern and high-performance web interfaces. With expertise in HTML, CSS and JavaScript. I bring designs to life with precision and creativity.
                     </p>
                     <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
                         
